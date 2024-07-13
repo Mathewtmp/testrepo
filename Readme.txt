@@ -1,2 +1,3 @@
-Hello Github
-nd Hello again!
+Hello!
+This is the repo towards the capstone project of Data science cert.
+
